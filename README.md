@@ -16,7 +16,7 @@ AIoT]{style="color:#00F5FF"}`</b>`{=html}
 
 ------------------------------------------------------------------------
 
-## ⚡ Elite Engineering Profile
+## ⚡ Engineering Profile
 
 I architect and build **high-reliability embedded and Linux-based
 systems** optimized for performance, security, and scalability.
