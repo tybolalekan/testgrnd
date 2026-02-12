@@ -110,8 +110,8 @@ I design with:
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tybolalekan&show_icons=true&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tybolalekan&layout=compact&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=tybolalekan&show_icons=true&count_private=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tybolalekan&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
