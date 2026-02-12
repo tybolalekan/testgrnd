@@ -1,85 +1,152 @@
-```{=html}
+<!-- ======================= HEADER ======================= -->
+
+<h1 align="center">Hi 👋, I'm Toyyib A. Olalekan</h1>
+<h3 align="center">Embedded Systems Engineer | Embedded Linux | IoT | Data & Analytics</h3>
+
 <p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=220&section=header&text=Toyyib%20A.%20Olalekan&fontSize=42&fontColor=00F5FF&animation=fadeIn" />`{=html}
-```{=html}
+Building robust engineering systems — from firmware to full-stack data insight.
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<b>`{=html}[Embedded Systems Architect • Embedded Linux •
-AIoT]{style="color:#00F5FF"}`</b>`{=html}
-```{=html}
+  <a href="https://www.linkedin.com/in/toyyib-olalekan-66013a6b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <img src="https://img.shields.io/badge/Location-Nigeria-success?style=for-the-badge">
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## ⚡ Engineering Profile
+## 🚀 About Me
 
-I architect and build **high-reliability embedded and Linux-based
-systems** optimized for performance, security, and scalability.
+I am an **Embedded Systems Engineer** passionate about building reliable, production-ready systems.
 
-🧠 RTOS & Firmware Architecture
-🐧 Custom Minimal Linux Systems
-🌐 Secure IoT Infrastructure
-📊 Data-Integrated Edge Systems
+I specialize in:
 
-------------------------------------------------------------------------
+- 🔧 **Embedded Firmware Development** (ESP32, STM32, ARM MCUs)
+- 🐧 **Embedded Linux Systems** (Buildroot, Yocto, Cross-compilation)
+- 🌐 **IoT Systems & Connectivity**
+- 📊 **Data Analytics & Business Intelligence** (SQL, Power BI, DAX)
+- 🤖 **AI-assisted Engineering Workflows**
 
-## 🛠 Core Stack
+I focus on **robustness, reliability, and real-world deployment**, not just prototypes.
 
-```{=html}
+---
+
+## ⭐ Featured Projects
+
+### 🔹 Embedded Systems & IoT Portfolio
+Hands-on microcontroller projects involving hardware interfacing, firmware architecture, and system reliability.
+
+**Highlights:**
+- ESP32 & STM32 development
+- Peripheral integration (I2C, SPI, UART)
+- Resilient firmware design
+- Real-world system testing
+
+---
+
+### 🔹 Embedded Linux Projects
+Custom Linux builds and embedded OS experimentation.
+
+**Highlights:**
+- Buildroot-based custom Linux systems
+- Web-server-based device control
+- System optimization for resource-constrained boards
+- Boot process & low-level system configuration
+
+---
+
+### 🔹 Data Analytics & BI Portfolio
+Transforming raw data into business insight.
+
+**Highlights:**
+- SQL data querying & modeling
+- Power BI dashboards
+- DAX calculations & data transformation
+- Insight storytelling with real datasets
+
+---
+
+## 🛠 Technical Skills
+
+### 🔧 Embedded & Firmware
+- C / C++
+- ESP32 (PlatformIO, Arduino framework)
+- STM32 (HAL/LL)
+- FreeRTOS
+- LVGL
+- Hardware debugging & system testing
+
+### 🐧 Embedded Linux
+- Buildroot
+- Yocto (learning & experimentation)
+- Shell scripting
+- Cross-compilation toolchains
+- Web server deployment on Linux
+
+### 📊 Data & Analytics
+- SQL (T-SQL, MySQL)
+- Power BI
+- DAX
+- Power Query
+- Python (NumPy, Pandas)
+
+### 🔄 Tools & Workflow
+- Git & GitHub
+- PlatformIO
+- VS Code
+- Agile learning & documentation
+
+---
+
+## 📈 Engineering Philosophy
+
+> "The biggest shift is learning to think in terms of robustness."
+
+I design systems that:
+- Fail gracefully
+- Handle edge cases
+- Avoid blocking firmware logic
+- Prioritize maintainability
+- Scale beyond proof-of-concept
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=c,cpp,linux,arduino,bash,cmake,git,python,tensorflow" />`{=html}
-```{=html}
+  <img src="https://github-readme-stats.vercel.app/api?username=tybolalekan&show_icons=true&theme=default" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tybolalekan&layout=compact" height="165">
 </p>
-```
-```{=html}
+
+---
+
+## 🎯 What I'm Currently Working On
+
+- Advanced Embedded Linux system builds
+- Reliable IoT communication systems
+- AI-assisted engineering development
+- Expanding data engineering & analytics expertise
+
+---
+
+## 🤝 Open To
+
+- Embedded Systems Engineering Roles
+- IoT Engineering Opportunities
+- Embedded Linux Development
+- Data & Analytics Engineering Roles
+- Technical Collaborations
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/toyyib-olalekan-66013a6b  
+- 📍 Location: Nigeria  
+
+---
+
 <p align="center">
-```
-FreeRTOS • LVGL • Buildroot • Yocto • PlatformIO • Power BI
-```{=html}
+  <i>Engineering reliable systems. Turning ideas into deployable technology.</i>
 </p>
-```
-
-------------------------------------------------------------------------
-
-## 📈 GitHub Intelligence
-
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=tybolalekan&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>`{=html}
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tybolalekan&layout=compact&theme=tokyonight&hide_border=true" height="150"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=tybolalekan&theme=tokyonight&hide_border=true" height="150"/>`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-## 🎯 Engineering Philosophy
-
-> Reliability is designed, not added.\
-> Systems must fail gracefully, scale predictably, and remain
-> maintainable.
-
-------------------------------------------------------------------------
-
-```{=html}
-<p align="center">
-```
-`<i style="color:#00F5FF">`{=html}Replace USERNAME with your GitHub
-username`</i>`{=html}
-```{=html}
-</p>
-```
