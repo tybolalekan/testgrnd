@@ -1,152 +1,141 @@
-<!-- ======================= HEADER ======================= -->
-
-<h1 align="center">Hi 👋, I'm Toyyib A. Olalekan</h1>
-<h3 align="center">Embedded Systems Engineer | Embedded Linux | IoT | Data & Analytics</h3>
+<h1 align="center">Toyyib A. Olalekan</h1>
+<h3 align="center">Embedded Systems Engineer | Embedded Linux | IoT Systems | Data & Analytics</h3>
 
 <p align="center">
-Building robust engineering systems — from firmware to full-stack data insight.
+Engineering reliable, production-ready systems — from firmware to insight.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/toyyib-olalekan-66013a6b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Location-Nigeria-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Location-Nigeria-2E8B57?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## ⚡ Engineering Focus
 
-I am an **Embedded Systems Engineer** passionate about building reliable, production-ready systems.
 
-I specialize in:
+I build systems that **work beyond the demo**.
 
-- 🔧 **Embedded Firmware Development** (ESP32, STM32, ARM MCUs)
-- 🐧 **Embedded Linux Systems** (Buildroot, Yocto, Cross-compilation)
-- 🌐 **IoT Systems & Connectivity**
-- 📊 **Data Analytics & Business Intelligence** (SQL, Power BI, DAX)
-- 🤖 **AI-assisted Engineering Workflows**
-
-I focus on **robustness, reliability, and real-world deployment**, not just prototypes.
+- Firmware that fails gracefully  
+- Embedded systems designed for reliability  
+- Custom Linux environments for constrained hardware  
+- Data solutions that transform complexity into clarity  
 
 ---
 
-## ⭐ Featured Projects
+## 🧠 Core Technologies
 
-### 🔹 Embedded Systems & IoT Portfolio
-Hands-on microcontroller projects involving hardware interfacing, firmware architecture, and system reliability.
+### 🔧 Embedded Systems
 
-**Highlights:**
-- ESP32 & STM32 development
-- Peripheral integration (I2C, SPI, UART)
-- Resilient firmware design
-- Real-world system testing
-
----
-
-### 🔹 Embedded Linux Projects
-Custom Linux builds and embedded OS experimentation.
-
-**Highlights:**
-- Buildroot-based custom Linux systems
-- Web-server-based device control
-- System optimization for resource-constrained boards
-- Boot process & low-level system configuration
-
----
-
-### 🔹 Data Analytics & BI Portfolio
-Transforming raw data into business insight.
-
-**Highlights:**
-- SQL data querying & modeling
-- Power BI dashboards
-- DAX calculations & data transformation
-- Insight storytelling with real datasets
-
----
-
-## 🛠 Technical Skills
-
-### 🔧 Embedded & Firmware
-- C / C++
-- ESP32 (PlatformIO, Arduino framework)
-- STM32 (HAL/LL)
-- FreeRTOS
-- LVGL
-- Hardware debugging & system testing
+<p>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LVGL-1E1E1E?style=for-the-badge"/>
+</p>
 
 ### 🐧 Embedded Linux
-- Buildroot
-- Yocto (learning & experimentation)
-- Shell scripting
-- Cross-compilation toolchains
-- Web server deployment on Linux
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Buildroot-3EAAAF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Yocto-5C4EE5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+### 🌐 IoT & Connectivity
+
+<p>
+  <img src="https://img.shields.io/badge/WiFi-005C84?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTTPS-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+</p>
 
 ### 📊 Data & Analytics
-- SQL (T-SQL, MySQL)
-- Power BI
-- DAX
-- Power Query
-- Python (NumPy, Pandas)
 
-### 🔄 Tools & Workflow
-- Git & GitHub
-- PlatformIO
-- VS Code
-- Agile learning & documentation
-
----
-
-## 📈 Engineering Philosophy
-
-> "The biggest shift is learning to think in terms of robustness."
-
-I design systems that:
-- Fail gracefully
-- Handle edge cases
-- Avoid blocking firmware logic
-- Prioritize maintainability
-- Scale beyond proof-of-concept
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tybolalekan&show_icons=true&theme=default" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tybolalekan&layout=compact" height="165">
+<p>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-003B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ---
 
-## 🎯 What I'm Currently Working On
+## 🚀 Featured Engineering Work
 
-- Advanced Embedded Linux system builds
-- Reliable IoT communication systems
-- AI-assisted engineering development
-- Expanding data engineering & analytics expertise
+### 🔹 Embedded & IoT Systems
+- ESP32 & STM32 firmware architecture  
+- Peripheral integration (I2C, SPI, UART, Ethernet, PPP)  
+- Secure communication (HTTPS, TLS)  
+- Production-minded firmware structure  
+- Resilient firmware error handling  
+
+### 🔹 Custom Embedded Linux Builds
+- Buildroot-based custom OS images  
+- Lightweight Linux distributions (100–200MB targets)  
+- Web-server-based device control  
+- System-level configuration & optimization  
+- Cross-compilation workflows  
+
+### 🔹 Data & Business Intelligence Projects
+- SQL-driven data modeling  
+- Interactive Power BI dashboards  
+- DAX-based business metrics  
+- Analytical storytelling with real datasets  
 
 ---
 
-## 🤝 Open To
+## 🏗 Engineering Philosophy
 
-- Embedded Systems Engineering Roles
-- IoT Engineering Opportunities
-- Embedded Linux Development
-- Data & Analytics Engineering Roles
-- Technical Collaborations
+> “Robust systems are not built by accident.”
+
+I design with:
+- Timeout-aware firmware logic  
+- Non-blocking system behavior  
+- Defensive programming principles  
+- Scalable architecture  
+- Clear and maintainable documentation  
 
 ---
 
-## 📫 Let's Connect
+## 📈 GitHub Analytics
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/toyyib-olalekan-66013a6b  
-- 📍 Location: Nigeria  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tybolalekan&show_icons=true&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tybolalekan&layout=compact&hide_border=true" height="165">
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Advanced Embedded Linux Systems  
+- Reliable IoT Communication Architectures  
+- Secure Firmware Development  
+- AI-assisted Engineering Productivity  
+- Expanding Data Engineering Depth  
+
+---
+
+## 🤝 Open To Opportunities
+
+✔ Embedded Systems Engineering  
+✔ Embedded Linux Development  
+✔ IoT Systems Engineering  
+✔ Firmware Architecture Roles  
+✔ Data & Analytics Engineering  
 
 ---
 
 <p align="center">
-  <i>Engineering reliable systems. Turning ideas into deployable technology.</i>
+<i>Building systems that survive real-world conditions.</i>
 </p>
